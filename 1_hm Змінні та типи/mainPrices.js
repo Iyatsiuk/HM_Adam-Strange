@@ -65,6 +65,7 @@ let profit = (totalPriceWithDiscount - totalPrice / 2).toFixed(2)
 
 console.log(profit)
 //// Advanced. Створіть шаблонний рядок та виведіть всі обчислення вчинені в Base частині у вигляді одного рядка.
+/*
 document.writeln(
   `Максимальна ціна: ${maxPrice}; <br>
   Мінімальна ціна: ${minPrice};<br>
@@ -79,3 +80,4 @@ document.writeln(
   } %: ${totalPriceWithDiscount} грн;<br>
   Чистий прибуток: ${profit} грн.`
 )
+*/
